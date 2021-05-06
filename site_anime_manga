@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+                    
+<head>
+    <meta charset="utf-8">
+    <title>Anime e Mangá - O que assistir e ler</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+      <div id="principal">
+
+      	<header>
+      		
+      		<div id="logo"> 
+
+      			<img src="imagens/logo-anime-manga.png" alt="erro" title="logo anime e mangá">
+
+
+      		</div>
+
+      		<nav>
+      			
+      			<ul> 
+
+      			<li><a href="index.html">Home</a></li>
+      			<li><a href="anime.html">Anime</a></li>
+      			<li><a href="manga.html">Mangá</a></li>
+      			<li><a href="contato.html">Contato</a></li>
+
+      		</ul>
+
+      		</nav>
+
+      	</header>
+
+      </div>
+
+</body>
+
+
+</html>
